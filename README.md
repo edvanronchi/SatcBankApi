@@ -43,10 +43,6 @@ Para executar a aplicação, você precisará ter os seguintes softwares instala
 3. Configure a string de conexão com o banco de dados no arquivo `app.config`.
 4. Execute o projeto.
 
-**Documentação**
-
-A documentação da API da aplicação está disponível no arquivo `ApiDocumentation.html`.
-
 **Contribuições**
 
 Sua contribuição para este projeto é bem-vinda! Você pode contribuir abrindo issues, enviando pull requests ou simplesmente usando a aplicação e fornecendo feedback.
