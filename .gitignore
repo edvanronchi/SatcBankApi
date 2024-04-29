@@ -3,6 +3,9 @@
 **/[Oo]bj/
 **/[Ll]og/
 
+# SQLite
+*.db
+
 # Arquivos de build
 *.psess
 *.vsp
@@ -57,8 +60,8 @@ Desktop.ini
 .idea/
 
 # Arquivos de configuração e de ambiente
-appsettings.json
-appsettings.Development.json
+# appsettings.json
+# appsettings.Development.json
 appsettings.Production.json
 appsettings.Staging.json
 
