@@ -53,4 +53,4 @@ Este projeto está licenciado sob a licença MIT.
 
 **Agradecimentos**
 
-Agradecemos ao professor Eduardo pela explicação e oportunidade da realização desde projeto.
+Agradecemos ao professor Eduardo pela explicação e oportunidade da realização deste projeto.
